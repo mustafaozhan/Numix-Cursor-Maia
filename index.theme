@@ -1,5 +1,3 @@
 [Icon Theme]
-Name = Numix-Cursor-Maia
-Comment = Multisized  X11 Mouse Theme Modified by Mustafa Özhan
-Example=default
-Inherits=core
+Name=Numix-Cursor-Maia
+Comment=Light cursor theme for the numix project
