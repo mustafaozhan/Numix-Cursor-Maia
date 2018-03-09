@@ -14,7 +14,10 @@ Maia Colored Numix Cursor theme
 git clone https://github.com/mustafaozhan/Numix-Cursor-Maia.git && cd Numix-Cursor-Maia && chmod +x install.sh && sh install.sh
 
 ```
-
+- Arch Linux user's
+```
+yaourt -S numix-cursor-maia-git
+```
 # Thanks to
  
 This cursor theme modified version of <a href="https://github.com/numixproject/numix-cursor-theme">numix-cursor-theme</a>
